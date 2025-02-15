@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Madar Soft Task</string>
+    <string name="register_form">Register Form</string>
+    <string name="input_user_name_caption">User name</string>
+    <string name="input_user_name_place_holder">Enter your full name</string>
+    <string name="job_title_caption">Job title</string>
+    <string name="job_title_place_holder">Enter your occupation</string>
+    <string name="age_caption">Age</string>
+    <string name="age_place_holder">Enter your age</string>
+    <string name="gender_caption">Gender</string>
+    <string name="gender_place_holder">Gender</string>
+    <string name="proceed">Proceed</string>
+    <string name="data_saved">Data Has Saved Successfully</string>
+    <string name="another_try">Again</string>
+    <string name="years_old">years old</string>
+    <string name="missing_data">Write your name and job title</string>
+</resources>
