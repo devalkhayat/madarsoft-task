@@ -18,6 +18,8 @@ This is assignment task source code for MadarSoft Co.
 🖋️ Navigation with Compose
 
 # demo
+https://github.com/user-attachments/assets/866a42b6-c341-4202-b55e-2daf70322c8b
+
 
 
 
