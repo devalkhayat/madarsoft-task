@@ -1,4 +1,4 @@
-# MadarSoft-task (Weather Forecast App)
+# MadarSoft-task
 This is assignment task source code for MadarSoft Co. 
 
 # Technologies & Libraries: 
@@ -16,10 +16,6 @@ This is assignment task source code for MadarSoft Co.
 🖋️ Version Catalogs
 <br/>
 🖋️ Navigation with Compose
-<br/>
-🖋️ CameraX 
-<br/>
-🖋️ Retrofit
 
 # demo
 
